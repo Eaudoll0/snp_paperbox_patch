@@ -55,7 +55,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = '「纸箱工艺-VIII」官方QQ群：279377943-官网：paperboxmc.cn丨Based on StarryNight_Pray ModPack 星夜祈临 by Hikari_Nova';
+S:customwindowtitle = '「纸箱工艺-VII」官方QQ群：279377943-官网：paperboxmc.cn丨Based on StarryNight_Pray ModPack 星夜祈临 by Hikari_Nova';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 
