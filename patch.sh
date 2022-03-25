@@ -9,3 +9,4 @@ rm -rf patch.sh
 rm -rf .git
 rm -rf .github
 rm -rf .gitignore
+rm -rf .minecraft/ftbq_lang_processor.py
